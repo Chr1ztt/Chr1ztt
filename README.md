@@ -2,14 +2,34 @@
 <h3 align="center">A Curious IT Student From Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chr1ztt&label=Profile%20views&color=0e75b6&style=flat" alt="chr1ztt" /> </p>
+<div height="1000">
+  
+  <div align="center"> 
+    <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M5eGRyNWt3MXRucHdqend1azFud3planRvMzYzYWNlaG5jMWljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" align="right" /> 
+  </div>
+  <br>
 
-- 🔭 I’m currently working on [Edupedia Project](https://edupedia.uksw.edu/)
+  
+### 🔭 Currently working on [Edupedia Project](https://edupedia.uksw.edu/)
+  
+- 💬 **Languages** : English, Indonesia(Native)
+- 🌱 **Gender**    : Male
+- ⚡ **Hobby**     : Coding, playing piano and rythm games
+- 🤔 **Fun fact**  : Can eat only fried rice for a whole week
+<br><br><br><br>
+</div>
 
 
 
-<h3 align="left">Languages and Tools</h3>
 
-#### Proficient
+
+
+
+<div>
+
+<h2 align="left">Languages and Tools</h3>
+
+### Proficient
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-000000.svg?logo=java&style=for-the-badge)
@@ -29,7 +49,7 @@
 ![Git](https://img.shields.io/badge/Git-000000.svg?logo=git&style=for-the-badge)
 
 
-#### Intermediate
+### Intermediate
 
 ![Linux](https://img.shields.io/badge/Linux-000000.svg?logo=linux&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000.svg?logo=next.js&style=for-the-badge)
@@ -37,17 +57,21 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000.svg?logo=bootstrap&style=for-the-badge)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-000000.svg?logo=Tensorflow&style=for-the-badge)
 
-#### Currently Learning
+### Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?logo=typescript&style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-000000.svg?logo=go&style=for-the-badge)
 ![GreenSock](https://img.shields.io/badge/GreenSock-000000.svg?logo=greensock&style=for-the-badge)
 
-<h3 align="left">Favorite Text Editor</h3>
+<h2 align="left">Favorite Text Editor</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-000000.svg?logo=visual-studio-code&style=for-the-badge)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij&nbsp;IDEA-000.svg?logo=intellij-idea&style=for-the-badge)
 ![Apache NetBeans IDE](https://img.shields.io/badge/Apache&nbsp;NetBeans&nbsp;IDE-000000.svg?logo=apache-netbeans-ide&style=for-the-badge)
+  
+</div>
+<br><br>
+
 
 <!-- <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -176,6 +200,12 @@
 <a href="https://www.hackerrank.com/chilllikehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chilllikehuman" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/chilllikehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chilllikehuman" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
+
+
+<br><br>
+![flying (2)](https://github.com/user-attachments/assets/a4df5fb8-d6bf-4eda-9acd-d8cd60b9cbb0)
+
+
 <!--
 **Chr1ztt/Chr1ztt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
