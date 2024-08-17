@@ -10,7 +10,7 @@
   <br>
 
   
-### 🔭 Currently working on [Edupedia Project](https://edupedia.uksw.edu/)
+### 🔭 Currently working on [Edupedia Project](https://edupedia.uksw.edu/) (private repository)
   
 - 💬 **Languages** : English, Indonesia(Native)
 - 🌱 **Gender**    : Male
