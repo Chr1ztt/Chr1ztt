@@ -10,7 +10,7 @@
   <br>
 
   
-### 🔭 Currently working on [Edupedia Project](https://edupedia.uksw.edu/) (private repository)
+### 🔭 Currently working on [Edupedia Project](https://edupedia.uksw.edu/) (private repository) as Backend Developer
   
 - 💬 **Languages** : English, Indonesia(Native)
 - 🌱 **Gender**    : Male
